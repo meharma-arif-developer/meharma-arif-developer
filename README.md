@@ -48,13 +48,50 @@ Crafting clean, responsive web applications and modern mobile interfaces with a 
 
 ---
 
-## 📊 GitHub & Coding Stats
+## 📊 GitHub Analytics
+
+Consistency and tracking my coding habits are important to me.
 
 <p align="center">
-  <img src="https://grs.vercel.app/api?username=meharma-arif-developer&show_icons=true&theme=radical" alt="Meharma's GitHub Stats" height="175" />
-  <img src="https://grs.vercel.app/api/top-langs/?username=meharma-arif-developer&layout=compact&theme=radical" alt="Top Languages" height="175" />
+  <a href="https://github.com/meharma-arif-developer">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=meharma-arif-developer&show_icons=true&theme=tokyonight&border_radius=5" 
+      width="49%" 
+      alt="Meharma's GitHub Stats" 
+    />
+  </a>
+
+  <a href="https://github.com/meharma-arif-developer">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=meharma-arif-developer&theme=tokyonight&border_radius=5" 
+      width="49%" 
+      alt="GitHub Streak" 
+    />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meharma-arif-developer&theme=radical" alt="GitHub Streak" />
-</p>
+---
+
+💼 Open to Opportunities
+
+I'm interested in:
+
+- 💻 **Software Development Internships
+- 🌐 **Web Development Internships
+- ⚛️ **React Developer Opportunities
+- 💻 **Junior Software Developer Roles
+- 🌍 **Remote Development Opportunities
+
+---
+
+📫 Connect With Me
+
+<p align="center"> <a href="https://github.com/meharma-arif-developer"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
+<p align="center"><a href="mailto:meharmaarif42@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile! </p>
+
+<p align="center">Keep learning. Keep building. Keep improving. 🚀</p>
