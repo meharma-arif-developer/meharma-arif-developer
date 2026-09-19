@@ -51,8 +51,8 @@ Crafting clean, responsive web applications and modern mobile interfaces with a 
 ## 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api?username=meharma-arif-developer&show_icons=true&theme=radical" alt="Meharma's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api/top-langs/?username=meharma-arif-developer&layout=compact&theme=radical" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api?username=meharma-arif-developer&show_icons=true&theme=radical&cache_seconds=1800" alt="Meharma's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api/top-langs/?username=meharma-arif-developer&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
